@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-나는 탄천 가에 산다. 내세울 게 그거 밖에 없다. 이게 어디냐 싶다.
+나는 탄천 가에 산다. 내세울 게 이거 밖에 없다. 이게 어디냐 싶다.
 
 ### More Information
 
