@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+탄천 가에 산다. 내세울 게 그거 밖에 없다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+내가 사는 동네는 걷기 좋은 동네다. 그래서 자주 걷는다. 걷다 보면 산으로 오르는 길도 있어 산에도 오른다. 
 
 ### Contact me
 
