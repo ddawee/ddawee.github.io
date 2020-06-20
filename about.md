@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-탄천 가에 산다. 내세울 게 그거 밖에 없다.
+나는 탄천 가에 산다. 내세울 게 그거 밖에 없다. 이게 어디냐 싶다.
 
 ### More Information
 
@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[joketheatre@gmail.com](mailto:joketheatre@gmail.com)
