@@ -2,6 +2,8 @@
 layout: post
 title: 장마와 점심
 ---
+<img src="https://jokekipple.files.wordpress.com/2015/06/img_1710.jpg">
+
 몹시 귀찮았으나 냉면을 제작해 대학생 딸을 먹이고 나도 먹었다.
 딸은 남동생이 어디 갔느냐고 물었다.
 딸은 또 남동생의 군대 문제에 대해 물었다. 
